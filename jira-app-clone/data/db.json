@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "title": "Backend islemleri",
+            "details": "Backend islemlerinin yapilmasi .net core projesinde gerekli gelistirmelerin yapilmasi",
+            "complete": true,
+            "id": 1
+        },
+        {
+             "title": "Frontend tarafindaki vuejs gelistirmeleri",
+            "details": " Frontend tarafindaki vuejs gelistirmelerinin yapilmasi",
+            "complete": false,
+            "id": 2
+        }
+    ]
+}
